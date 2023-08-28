@@ -23,7 +23,7 @@
 #include "pcx-text.h"
 
 const char *
-pcx_text_english[] = {
+pcx_text_italian[] = {
         [PCX_TEXT_STRING_LANGUAGE_CODE] =
         "it",
         [PCX_TEXT_STRING_NAME_COUP] =
@@ -114,7 +114,7 @@ pcx_text_english[] = {
         " oppure ",
         [PCX_TEXT_STRING_WELCOME] =
         "Benvenuto. Gli altri giocatori possono usare /unisciti per unirsi alla partita oppure puoi fare "
-        "/start per iniziarla.",
+        "/inizia per iniziarla.",
         [PCX_TEXT_STRING_WELCOME_FULL] =
         "Benvenuti. La partita è ora piena e inizierà immediatamente.",
         [PCX_TEXT_STRING_WELCOME_BUTTONS] =
@@ -137,173 +137,171 @@ pcx_text_english[] = {
         "Per favore, unisciti con /unisciti prima di provare a startare.",
         [PCX_TEXT_STRING_NEED_MIN_PLAYERS] =
         "Almeno %i giocatori sono necessari per giocare.",
-
-        //ancora da tradurre
         [PCX_TEXT_STRING_JOIN_COMMAND] =
         "/unisciti",
         [PCX_TEXT_STRING_JOIN_COMMAND_DESCRIPTION] =
         "Unisciti a una partita oppure creane una nuova",
         [PCX_TEXT_STRING_START_COMMAND] =
-        "/start",
+        "/inizia",
         [PCX_TEXT_STRING_START_COMMAND_DESCRIPTION] =
-        "Start an existing game",
+        "Inizia una partita esistente",
         [PCX_TEXT_STRING_CANCEL_COMMAND] =
-        "/cancel",
+        "/cancella",
         [PCX_TEXT_STRING_CANCEL_COMMAND_DESCRIPTION] =
-        "Cancel an existing game",
+        "Cancella una partita esistente",
         [PCX_TEXT_STRING_HELP_COMMAND] =
-        "/help",
+        "/aiuto",
         [PCX_TEXT_STRING_HELP_COMMAND_DESCRIPTION] =
-        "Show a summary of the rules",
+        "Mostra un sommario delle regole",
         [PCX_TEXT_STRING_RECEIVED_PRIVATE_MESSAGE] =
-        "Thanks for the message. You can now join a game in a public group.",
+        "Grazie per il messaggio. Ora puoi unirti alla partita in un gruppo pubblico.",
         [PCX_TEXT_STRING_CHOOSE_GAME_TYPE] =
-        "Please choose which version of the game you want to play.",
+        "Per favore, scegli quale versione vuoi giocare.",
         [PCX_TEXT_STRING_GAME_TYPE_CHOSEN] =
-        "The chosen version is: %s",
+        "La versione scelta è: %s",
         [PCX_TEXT_STRING_GAME_TYPE_ORIGINAL] =
-        "Original",
+        "Originale",
         [PCX_TEXT_STRING_GAME_TYPE_INSPECTOR] =
-        "Inquisitor",
+        "Inquisitore",
         [PCX_TEXT_STRING_GAME_TYPE_REFORMATION] =
-        "Reformation",
+        "Riformazione",
         [PCX_TEXT_STRING_GAME_TYPE_REFORMATION_INSPECTOR] =
-        "Reformation + Inquisitor",
+        "Riformazione + Inquisitore",
         [PCX_TEXT_STRING_COUP] =
         "Coup",
         [PCX_TEXT_STRING_INCOME] =
-        "Income",
+        "Rendita",
         [PCX_TEXT_STRING_FOREIGN_AID] =
-        "Foreign aid",
+        "Aiuto Estero",
         [PCX_TEXT_STRING_TAX] =
-        "Tax (Duke)",
+        "Tassa (Duca)",
         [PCX_TEXT_STRING_CONVERT] =
-        "Convert",
+        "Converti",
         [PCX_TEXT_STRING_EMBEZZLE] =
-        "Embezzle",
+        "Impossessati",
         [PCX_TEXT_STRING_ASSASSINATE] =
-        "Assassinate (Assassin)",
+        "Assassina (Assassino)",
         [PCX_TEXT_STRING_EXCHANGE] =
-        "Exchange (Ambassador)",
+        "Scambia (Ambasciatore)",
         [PCX_TEXT_STRING_EXCHANGE_INSPECTOR] =
-        "Exchange (Inquisitor)",
+        "Scambia (Inquisitore)",
         [PCX_TEXT_STRING_INSPECT] =
-        "Interrogate (Inquisitor)",
+        "Interroga (Inquisitore)",
         [PCX_TEXT_STRING_STEAL] =
-        "Steal (Captain)",
+        "Ruba (Capitano)",
         [PCX_TEXT_STRING_ACCEPT] =
-        "Accept",
+        "Accetta",
         [PCX_TEXT_STRING_CHALLENGE] =
-        "Challenge",
+        "Sfida",
         [PCX_TEXT_STRING_BLOCK] =
-        "Block",
+        "Blocca",
         [PCX_TEXT_STRING_1_COIN] =
-        "1 coin",
+        "1 moneta",
         [PCX_TEXT_STRING_PLURAL_COINS] =
-        "%i coins",
+        "%i monete",
         [PCX_TEXT_STRING_YOUR_CARDS_ARE] =
-        "Your cards are:",
+        "Le tue carte sono:",
         [PCX_TEXT_STRING_NOONE] =
-        "Nobody",
+        "Nessuno",
         [PCX_TEXT_STRING_WON_1] =
-        "%s won!",
+        "%s ha vinto!",
         [PCX_TEXT_STRING_WON_PLURAL] =
-        "%s won!",
+        "%s hanno vinto!",
         [PCX_TEXT_STRING_YOUR_GO] =
-        "%s, it’s your turn. What do you want to do?",
+        "%s, è il tuo turno. Cosa vorresti fare?",
         [PCX_TEXT_STRING_WHICH_CARD_TO_LOSE] =
-        "Which card do you want to lose?",
+        "Quale carta vorresti perdere?",
         [PCX_TEXT_STRING_CHALLENGE_SUCCEEDED] =
-        "%s challenged and %s didn’t have %s so %s loses a card.",
+        "%s ha sfidato e %s non aveva %s quindi %s perde una carta.",
         [PCX_TEXT_STRING_INVERTED_CHALLENGE_SUCCEEDED] =
-        "%s challenged and %s conceded so %s loses a card.",
+        "%s ha sfidato e %s si è arreso quindi %s perde una carta.",
         [PCX_TEXT_STRING_CHALLENGE_FAILED] =
-        "%s challenged but %s did have %s. %s loses a card and %s "
-        "receives a replacement from the deck.",
+        "%s ha sfidato ma %s aveva %s. %s perde una carta e %s "
+        "riceve un ricambio dal mazzo.",
         [PCX_TEXT_STRING_INVERTED_CHALLENGE_FAILED] =
-        "%s challenged and %s showed %s so %s changes their cards and "
-        "%s loses a card.",
+        "%s ha sfidato e %s ha mostrato %s quindi %s cambia le proprioe carte e "
+        "%s perde una carta.",
         [PCX_TEXT_STRING_CHOOSING_REVEAL] =
-        "%s challenged and now %s is choosing which card to reveal.",
+        "%s ha sfidato e %s sta scegliendo quale carta rivelare.",
         [PCX_TEXT_STRING_CHOOSING_REVEAL_INVERTED] =
-        "%s challenged and now %s is choosing whether to concede.",
+        "%s ha sfidato e %s sta scegliendo se arrendersi.",
         [PCX_TEXT_STRING_ANNOUNCE_CHALLENGE] =
-        "%s doesn’t believe that you have %s.\n"
-        "Which card do you want to show them?",
+        "%s non crede che tu abbia %s.\n"
+        "Quale carta vorresti mostrargli?",
         [PCX_TEXT_STRING_ANNOUNCE_INVERTED_CHALLENGE] =
-        "%s believes that you do have %s.\n"
-        "Do you want to concede?",
+        "%s crede che tu abbia %s.\n"
+        "Vuoi arrenderti?",
         [PCX_TEXT_STRING_CONCEDE] =
-        "Concede",
+        "Arrenditi",
         [PCX_TEXT_STRING_SHOW_CARDS] =
-        "Show cards",
+        "Mostra le carte",
         [PCX_TEXT_STRING_NO_CHALLENGE_SO_BLOCK] =
-        "Nobody challenged. The action was blocked.",
+        "Nessuno ha sfidato. L'azione è stata bloccata.",
         [PCX_TEXT_STRING_CLAIM_CARDS_TO_BLOCK] =
-        "%s claims to have %s and blocks the action.",
+        "%s afferma di avere %s e blocca l'azione.",
         [PCX_TEXT_STRING_DOES_SOMEBODY_CHALLENGE] =
-        "Does somebody want to challenge them?",
+        "Qualcuno vuole sfidare?",
         [PCX_TEXT_STRING_OR_BLOCK_NO_TARGET] =
-        "Or does somebody want to claim to have %s and block them?",
+        "O qualcuno vuole affermare di avere %s e di bloccare l'azione?",
         [PCX_TEXT_STRING_BLOCK_NO_TARGET] =
-        "Does somebody want to claim to have %s and block them?",
+        "Qualcuno vuole affermare di avere %s e di bloccare l'azione?",
         [PCX_TEXT_STRING_OR_BLOCK_OTHER_ALLEGIANCE] =
-        "Or does somebody from another allegiance want to claim to have %s "
-        "and block them?",
+        "O qualcuno di un'altra alleanza vuole affermare di avere %s "
+        "e bloccare l'azione?",
         [PCX_TEXT_STRING_BLOCK_OTHER_ALLEGIANCE] =
-        "Does somebody from another allegiance want to claim to have %s "
-        "and block them?",
+        "Qualcuno di un'altra alleanza vuole affermare di avere %s "
+        "e bloccare l'azione?",
         [PCX_TEXT_STRING_OR_BLOCK_WITH_TARGET] =
-        "Or %s, do you want to claim to have %s and block them?",
+        "O %s, vuoi affermare di avere %s e bloccare l'azione?",
         [PCX_TEXT_STRING_BLOCK_WITH_TARGET] =
-        "%s, do you want to claim to have %s and block them?",
+        "%s, vuoi affermare di avere %s e bloccare l'azione?",
         [PCX_TEXT_STRING_WHO_TO_COUP] =
-        "%s, who do you want to kill during the coup?",
+        "%s, chi vuoi uccidere durante il colpo di stato?",
         [PCX_TEXT_STRING_DOING_COUP] =
-        "💣 %s does a coup against %s",
+        "💣 %s fa il colpo di stato verso %s",
         [PCX_TEXT_STRING_DOING_INCOME] =
-        "💲 %s takes 1 coin of income",
+        "💲 %s prende una moneta di reddito",
         [PCX_TEXT_STRING_REALLY_DOING_FOREIGN_AID] =
-        "Nobody blocked, %s takes the two coins",
+        "Nessuno ha bloccato, %s prende due monete",
         [PCX_TEXT_STRING_DOING_FOREIGN_AID] =
-        "💴 %s receives 2 coins from foreign aid.",
+        "💴 %s ha ricevuto due monete dall'aiuto estero.",
         [PCX_TEXT_STRING_EMBEZZLING] =
-        "💼 %s claims not to have the duke and embezzles the money in the "
-        "treasury.",
+        "💼 %s afferma di non avere il duca e di volersi impossessare dei "
+        "soldi nella tesoreria.",
         [PCX_TEXT_STRING_REALLY_EMBEZZLING] =
-        "Nobody challenged, %s takes the money in the treasury.",
+        "Nessuno ha sfidato, %s prende i soldi nella tesoreria.",
         [PCX_TEXT_STRING_REALLY_DOING_TAX] =
-        "Nobody challenged, %s takes the 3 coins.",
+        "Nessuno ha sfidato, %s prende 3 monete.",
         [PCX_TEXT_STRING_DOING_TAX] =
-        "💸 %s claims to have the duke and takes 3 coins from tax.",
+        "💸 %s afferma di avere il duca e prende 3 monete dalle tasse.",
         [PCX_TEXT_STRING_WHO_TO_CONVERT] =
-        "%s, who do you want to convert?",
+        "%s, chi vuoi convertire?",
         [PCX_TEXT_STRING_CONVERTS_SELF] =
-        "%s pays 1 coin to the treasury and converts themself.",
+        "%s paga 1 moneta alla tesoreria e si converte.",
         [PCX_TEXT_STRING_CONVERTS_SOMEONE_ELSE] =
-        "%s pays 2 coins to the treasury and converts %s.",
+        "%s paga 2 monete alla tesoreria e converte %s.",
         [PCX_TEXT_STRING_REALLY_DOING_ASSASSINATION] =
-        "Nobody blocked or challenged, %s assassinates %s",
+        "Nessuno ha bloccato o sfigato, %s assassina %s",
         [PCX_TEXT_STRING_SELECT_TARGET_ASSASSINATION] =
-        "%s, who do you want to assassinate?",
+        "%s, chi vuoi assassinare?",
         [PCX_TEXT_STRING_DOING_ASSASSINATION] =
-        "🗡 %s wants to assassinate %s.",
+        "🗡 %s vuole assassinare %s.",
         [PCX_TEXT_STRING_WHICH_CARDS_TO_KEEP] =
-        "Which cards do you want to keep?",
+        "Che carte vuoi tenere?",
         [PCX_TEXT_STRING_REALLY_DOING_EXCHANGE] =
-        "Nobody challenged, %s exchanges cards.",
+        "Nessuno ha sfidato, %s scambia le carte.",
         [PCX_TEXT_STRING_DOING_EXCHANGE] =
-        "🔄 %s claims to have the ambassador and wants to exchange cards.",
+        "🔄 %s afferma di avere l'Ambasciatore e vuole scambiare le carte.",
         [PCX_TEXT_STRING_DOING_EXCHANGE_INSPECTOR] =
-        "🔄 %s claims to have the inquisitor and wants to exchange cards.",
+        "🔄 %s afferma di avere l'Inquisitore e vuole scambiare le carte.",
         [PCX_TEXT_STRING_REALLY_DOING_INSPECT] =
-        "Nobody challenged, %s chooses a card to show to %s",
+        "Nessuno ha sfidato, %s sceglie una carta da mostrare a %s",
         [PCX_TEXT_STRING_SELECT_TARGET_INSPECT] =
-        "%s, who do you want to interrogate?",
+        "%s, chi vuoi interrogare?",
         [PCX_TEXT_STRING_DOING_INSPECT] =
-        "🔍 %s claims to have the inquisitor and wants to interrogate %s",
+        "🔍 %s afferma di avere l'inquisitore e vuole interrogare %s",
         [PCX_TEXT_STRING_CHOOSE_CARD_TO_SHOW] =
-        "Which card do you want to show to %s?",
+        "Che carta vuoi mostrare a %s?",
         [PCX_TEXT_STRING_OTHER_PLAYER_DECIDING_CAN_KEEP] =
         "%s is now deciding whether you can keep %s",
         [PCX_TEXT_STRING_SHOWING_CARD] =
