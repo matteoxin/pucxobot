@@ -113,7 +113,7 @@ pcx_text_english[] = {
         [PCX_TEXT_STRING_FINAL_DISJUNCTION] =
         " oppure ",
         [PCX_TEXT_STRING_WELCOME] =
-        "Benvenuto. Gli altri giocatori possono usare /join per unirsi alla partita oppure puoi fare "
+        "Benvenuto. Gli altri giocatori possono usare /unisciti per unirsi alla partita oppure puoi fare "
         "/start per iniziarla.",
         [PCX_TEXT_STRING_WELCOME_FULL] =
         "Benvenuti. La partita è ora piena e inizierà immediatamente.",
@@ -134,15 +134,15 @@ pcx_text_english[] = {
         [PCX_TEXT_STRING_CURRENT_PLAYERS] =
         "I giocatori attuali sono:",
         [PCX_TEXT_STRING_JOIN_BEFORE_START] =
-        "Per favore, unisciti con /join prima di provare a startare.",
+        "Per favore, unisciti con /unisciti prima di provare a startare.",
         [PCX_TEXT_STRING_NEED_MIN_PLAYERS] =
         "Almeno %i giocatori sono necessari per giocare.",
 
         //ancora da tradurre
         [PCX_TEXT_STRING_JOIN_COMMAND] =
-        "/join",
+        "/unisciti",
         [PCX_TEXT_STRING_JOIN_COMMAND_DESCRIPTION] =
-        "Join an existing game or create a new one",
+        "Unisciti a una partita oppure creane una nuova",
         [PCX_TEXT_STRING_START_COMMAND] =
         "/start",
         [PCX_TEXT_STRING_START_COMMAND_DESCRIPTION] =
