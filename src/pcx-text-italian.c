@@ -18,7 +18,7 @@
 
 #include "config.h"
 
-#include "pcx-text-english.h"
+#include "pcx-text-italian.h"
 
 #include "pcx-text.h"
 
