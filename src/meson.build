@@ -5,6 +5,7 @@ translations = [
         'pcx-text-english.c',
         'pcx-text-pt-br.c',
         'pcx-text-chinese-traditional.c',
+        'pcx-text-italian.c'
 ]
 
 server_src = [
