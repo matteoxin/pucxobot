@@ -527,68 +527,68 @@ pcx_text_italian[] = {
         "\n"
         "Stanno scegliendo i loro lottatori.",
         [PCX_TEXT_STRING_POSSIBLE_ROLES] =
-        "Your characters are:",
+        "I tuoi personaggi sono:",
         [PCX_TEXT_STRING_POSSIBLE_ATTRIBUTES] =
-        "Your attributes are:",
+        "Le tue caratteristiche sono:",
         [PCX_TEXT_STRING_CHOOSE_ROLE] =
-        "Please choose a character.",
+        "Per favore, scegli un personaggio.",
         [PCX_TEXT_STRING_CHOOSE_ATTRIBUTE] =
-        "Please choose an attribute.",
+        "Per favore, scegli una caratteristica.",
         [PCX_TEXT_STRING_YOUR_FIGHTER_IS] =
-        "Thanks. Your fighter is:",
+        "Grazie, il tuo lottatore è:",
         [PCX_TEXT_STRING_FIGHTERS_CHOSEN] =
-        "The fighters are ready! They are:",
+        "I lottatori sono pronti! Sono:",
         [PCX_TEXT_STRING_NOW_ARGUE] =
-        "You both now have to argue why your fighter would win in a "
-        "fight to the death. Go!",
+        "Ora dovete discutere sul perché il tuo lottatore dovrebbe vincere in uno "
+        "scontro all'ultimo sangue!",
         [PCX_TEXT_STRING_DONT_FORGET_TO_VOTE] =
-        "Don’t forget to vote! The current votes are:",
+        "Non dimenticarti di votare! I voti attuali sono:",
         [PCX_TEXT_STRING_YOU_CAN_VOTE] =
-        "Has the arguing already finished? The other players can now vote "
-        "with the buttons below or wait for the debate to finish.",
+        "La discussione è già finita? Gli altri giocatori possono ora votare "
+        "con i pulsanti sottostanti o aspettare per la fine della discussione.",
         [PCX_TEXT_STRING_X_VOTED_Y] =
-        "%s voted for %s",
+        "%s ha votato per %s",
         [PCX_TEXT_STRING_CURRENT_VOTES_ARE] =
-        "The current votes are:",
+        "I voti attuali sono:",
         [PCX_TEXT_STRING_FIGHT_EQUAL_RESULT] =
-        "It’s a draw! There will now be a decider fight without "
-        "attributes.",
+        "È un pareggio! Ci sarà una lotta di spareggio senza "
+        "caratteristiche.",
         [PCX_TEXT_STRING_FIGHT_WINNER_IS] =
-        "%s won the fight! The current points are:",
+        "%s ha vinto la sfida! I punti attuali sono:",
         [PCX_TEXT_STRING_STAYS_ON] =
-        "The first player to reach %i points wins the game. "
-        "%s will stay on for the next fight without changing their cards.",
+        "Il primo giocatore che raggiunge %i punti vince la partita. "
+        "%s affronterà la prossima sfida senza cambiare le carte.",
         [PCX_TEXT_STRING_THROW] =
-        "Throw dice",
+        "Tira i dadi",
         [PCX_TEXT_STRING_STOP] =
-        "Stop",
+        "Fermati",
         [PCX_TEXT_STRING_STOP_SCORE] =
-        "%p stops and adds %i to their score.",
+        "%p si ferma e aggiunge %i al suo punteggio.",
         [PCX_TEXT_STRING_THROW_FIRST_DICE] =
-        "<b>%p</b>, it’s your go, press the button to roll the dice.",
+        "<b>%p</b>, è il tuo turno, premi il pulsante sottostante per tirare i dadi.",
         [PCX_TEXT_STRING_YOUR_DICE_ARE] =
-        "Your dice are:",
+        "I tuoi dadi sono:",
         [PCX_TEXT_STRING_THROWING_DICE] =
-        "Throwing dice…",
+        "Tirando i dadi…",
         [PCX_TEXT_STRING_SCORE_SO_FAR] =
-        "Score so far:",
+        "Punteggio attuale:",
         [PCX_TEXT_STRING_DICE_IN_HAND] =
-        "In your hand:",
+        "Nella tua mano:",
         [PCX_TEXT_STRING_NO_DICE_IN_HAND] =
-        "nothing",
+        "niente",
         [PCX_TEXT_STRING_REMAINING_DICE_IN_BOX] =
-        "Dice in box:",
+        "Dadi nella scatola:",
         [PCX_TEXT_STRING_YOU_ARE_DEAD] =
-        "You got shot too many times and lose all of your points from this "
-        "turn!",
+        "Sei stato sparato troppe volte e perdi tutti i punti "
+        "di questo turno!",
         [PCX_TEXT_STRING_THROW_OR_STOP] =
-        "Do you want to throw the dice again or stop now?",
+        "Vuoi tirare di nuovo i dadi o fermarti?",
         [PCX_TEXT_STRING_START_LAST_ROUND] =
-        "%p has reached %i points so this will be the final round",
+        "%p ha raggiunto %i punti quindi questo sarà il round finale. Buona fortuna!",
         [PCX_TEXT_STRING_WINS] =
-        "🏆 <b>%p</b> wins!",
+        "🏆 <b>%p</b> ha vinto!",
         [PCX_TEXT_STRING_FINAL_SCORES] =
-        "The final scores are:",
+        "I punteggi finali sono:",
         [PCX_TEXT_STRING_EVERYBODY_CHOOSE_CARD] =
         "Everybody now has to choose a card to play.",
         [PCX_TEXT_STRING_WHICH_CARD_TO_PLAY] =
