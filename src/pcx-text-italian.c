@@ -303,229 +303,229 @@ pcx_text_italian[] = {
         [PCX_TEXT_STRING_CHOOSE_CARD_TO_SHOW] =
         "Che carta vuoi mostrare a %s?",
         [PCX_TEXT_STRING_OTHER_PLAYER_DECIDING_CAN_KEEP] =
-        "%s is now deciding whether you can keep %s",
+        "%s sta ora decidente se puoi tenere %s",
         [PCX_TEXT_STRING_SHOWING_CARD] =
-        "%s shows %s to you. Can they keep it?",
+        "%s ti mostra %s. Può tenerla?",
         [PCX_TEXT_STRING_YES] =
-        "Yes",
+        "Sì",
         [PCX_TEXT_STRING_NO] =
         "No",
         [PCX_TEXT_STRING_ALLOW_KEEP] =
-        "%s let %s keep the card that they showed.",
+        "%s lascia tenere a %s la carta che gli ha mostrato.",
         [PCX_TEXT_STRING_DONT_ALLOW_KEEP] =
-        "%s made %s change the card that they showed.",
+        "%s ha fatto cambiare a %s la carta che gli ha mostrato.",
         [PCX_TEXT_STRING_REALLY_DOING_STEAL] =
-        "Nobody blocked or challenged, %s steals from %s.",
+        "Nessuno ha bloccato o sfidato, %s ruba da %s.",
         [PCX_TEXT_STRING_SELECT_TARGET_STEAL] =
-        "%s, who do you want to steal from?",
+        "%s, da chi vuoi rubare?",
         [PCX_TEXT_STRING_DOING_STEAL] =
-        "💰 %s wants to steal from %s.",
+        "💰 %s vuole rubare da %s.",
         [PCX_TEXT_STRING_CHARACTER_NAME_DUKE] =
-        "Duke",
+        "Duca",
         [PCX_TEXT_STRING_CHARACTER_NAME_ASSASSIN] =
-        "Assassin",
+        "Assassino",
         [PCX_TEXT_STRING_CHARACTER_NAME_CONTESSA] =
         "Contessa",
         [PCX_TEXT_STRING_CHARACTER_NAME_CAPTAIN] =
-        "Captain",
+        "Capitano",
         [PCX_TEXT_STRING_CHARACTER_NAME_AMBASSADOR] =
-        "Ambassador",
+        "Ambasciatore",
         [PCX_TEXT_STRING_CHARACTER_NAME_INSPECTOR] =
-        "Inquisitor",
+        "Inquisitore",
         [PCX_TEXT_STRING_CHARACTER_OBJECT_NAME_DUKE] =
-        "the duke",
+        "il duca",
         [PCX_TEXT_STRING_CHARACTER_OBJECT_NAME_ASSASSIN] =
-        "the assassin",
+        "l'assassino",
         [PCX_TEXT_STRING_CHARACTER_OBJECT_NAME_CONTESSA] =
-        "the contessa",
+        "la contessa",
         [PCX_TEXT_STRING_CHARACTER_OBJECT_NAME_CAPTAIN] =
-        "the captain",
+        "il capitano",
         [PCX_TEXT_STRING_CHARACTER_OBJECT_NAME_AMBASSADOR] =
-        "the ambassador",
+        "l'ambasciatore",
         [PCX_TEXT_STRING_CHARACTER_OBJECT_NAME_INSPECTOR] =
-        "the inquisitor",
+        "l'inquisitore",
         [PCX_TEXT_STRING_COINS_IN_TREASURY] =
-        "Treasury: %i",
+        "Tesoreria: %i",
         [PCX_TEXT_STRING_ROLE_NAME_DRIVER] =
-        "Driver",
+        "Autista",
         [PCX_TEXT_STRING_ROLE_NAME_LOCKPICK] =
-        "Lockpick",
+        "Scassinatore",
         [PCX_TEXT_STRING_ROLE_NAME_MUSCLE] =
-        "Muscle",
+        "Muscolo",
         [PCX_TEXT_STRING_ROLE_NAME_CON_ARTIST] =
-        "Con Artist",
+        "Truffatore",
         [PCX_TEXT_STRING_ROLE_NAME_LOOKOUT] =
-        "Lookout",
+        "Palo",
         [PCX_TEXT_STRING_ROLE_NAME_SNITCH] =
-        "Snitch",
+        "Spia",
         [PCX_TEXT_STRING_ROUND_NUM] =
         "Round %i / %i",
         [PCX_TEXT_STRING_CHOOSE_HEIST_DIFFICULTY] =
-        "%s, you are the gang leader. How many specialists do you want in the "
-        "heist?",
+        "%s, sei il capo della gang. Quanti specialisti vuoi nella "
+        "rapina?",
         [PCX_TEXT_STRING_HEIST_SIZE_CHOSEN] =
-        "The heist will need the following %i specialists:",
+        "La rapina avrà bisogno dei seguenti %i specialisti:",
         [PCX_TEXT_STRING_DISCUSS_HEIST] =
-        "Now you can discuss amongst yourselves about which specialist you "
-        "will add to the heist. When you are ready, you can secretly choose "
-        "your card.",
+        "Ora potete discutere tra di voi quali specialisti inviterete "
+        "nella rapina. Quando sarete pronti, potete segretamente scegliere "
+        "la vostra carta.",
         [PCX_TEXT_STRING_CARDS_CHOSEN] =
-        "Everybody made their choice! The specialists are:",
+        "Tutti hanno scelto! Gli specialisti sono:",
         [PCX_TEXT_STRING_NEEDED_CARDS_WERE] =
-        "The people needed were:",
+        "Le persone necessarie erano:",
         [PCX_TEXT_STRING_YOU_CHOSE] =
-        "You chose:",
+        "Hai scelto:",
         [PCX_TEXT_STRING_WHICH_ROLE] =
-        "Which card do you want to choose?",
+        "Quali carte vuoi scegliere?",
         [PCX_TEXT_STRING_HEIST_SUCCESS] =
-        "The heist was a success! Every player that didn’t choose the snitch "
-        "receives %i coins.",
+        "La rapina è stata un successo! Tutti i giocatori che non hanno scelto la spia "
+        "ricevono %i monete.",
         [PCX_TEXT_STRING_HEIST_FAILED] =
-        "The heist failed! Everybody who didn’t choose the snitch loses 1 "
-        "coin.",
+        "La rapina è fallita! Tutti quelli che non hanno scelto la spia perdono 1 "
+        "moneta.",
         [PCX_TEXT_STRING_SNITCH_GAIN_1] =
-        "Everyone else gains 1 coin.",
+        "Tutti gli altri guadagnano 1 moneta.",
         [PCX_TEXT_STRING_SNITCH_GAIN_PLURAL] =
-        "Everyone else gains %i coins.",
+        "Tutti gli altri guadagnano %i monete.",
         [PCX_TEXT_STRING_EVERYONE_SNITCHED] =
-        "The heist failed and everybody snitched! Nobody gains anything.",
+        "La rapina è fallita e tutti hanno fatto la spia! Nessuno guadagna nulla.",
         [PCX_TEXT_STRING_NOONE_SNITCHED] =
-        "Nobody snitched.",
+        "Nessuno ha fatto la spia.",
         [PCX_TEXT_STRING_1_SNITCH] =
-        "1 snitch",
+        "1 spia",
         [PCX_TEXT_STRING_PLURAL_SNITCHES] =
-        "%i snitches",
+        "%i spie",
         [PCX_TEXT_STRING_GUARD] =
-        "Guard",
+        "Guardia",
         [PCX_TEXT_STRING_GUARD_OBJECT] =
-        "the guard",
+        "la guardia",
         [PCX_TEXT_STRING_GUARD_DESCRIPTION] =
-        "Name a card other than the guard and choose a player. "
-        "If that player has that card, they lose the round.",
+        "Scegli una carta che non sia la guardia e scegli un giocatore. "
+        "Se quel giocatore ha quella carta, perde il round.",
         [PCX_TEXT_STRING_SPY] =
-        "Spy",
+        "Spia",
         [PCX_TEXT_STRING_SPY_OBJECT] =
-        "the spy",
+        "la spia",
         [PCX_TEXT_STRING_SPY_DESCRIPTION] =
-        "Look at another player’s hand.",
+        "Mostra la mano di un altro giocatore.",
         [PCX_TEXT_STRING_BARON] =
-        "Baron",
+        "Barone",
         [PCX_TEXT_STRING_BARON_OBJECT] =
-        "the baron",
+        "il barone",
         [PCX_TEXT_STRING_BARON_DESCRIPTION] =
-        "Secretly compare hands with another player. The person who has "
-        "the lowest valued card loses the round.",
+        "Confronta segretamente la tua mano con un altro giocatore. La persona che ha "
+        "la carta più bassa perde il round.",
         [PCX_TEXT_STRING_HANDMAID] =
-        "Handmaid",
+        "Serva",
         [PCX_TEXT_STRING_HANDMAID_OBJECT] =
-        "the handmaid",
+        "la serva",
         [PCX_TEXT_STRING_HANDMAID_DESCRIPTION] =
-        "Until your next turn, ignore any effects from other player’s cards.",
+        "Fino all'inizio del vostro prossimo turno, sarai protetto dagli effetti delle carte avversarie.",
         [PCX_TEXT_STRING_PRINCE] =
-        "Prince",
+        "Principe",
         [PCX_TEXT_STRING_PRINCE_OBJECT] =
-        "the prince",
+        "il principe",
         [PCX_TEXT_STRING_PRINCE_DESCRIPTION] =
-        "Choose a player (can be yourself) who will discard their hand and "
-        "take a new card.",
+        "Scegli un giocatore (anche te stesso) che scarterà la mano e "
+        "prenderà una nuova carta.",
         [PCX_TEXT_STRING_KING] =
-        "King",
+        "Re",
         [PCX_TEXT_STRING_KING_OBJECT] =
-        "the king",
+        "il re",
         [PCX_TEXT_STRING_KING_DESCRIPTION] =
-        "Choose another player and exchange hands with them.",
+        "Scegli un altro giocatore e scambia la carta che hai in mano con la loro.",
         [PCX_TEXT_STRING_COMTESSE] =
-        "Comtesse",
+        "Contessa",
         [PCX_TEXT_STRING_COMTESSE_OBJECT] =
-        "the comtesse",
+        "La contessa",
         [PCX_TEXT_STRING_COMTESSE_DESCRIPTION] =
-        "If you have this card along with the king or the prince in your hand "
-        "you must discard this card.",
+        "Se hai questa carta insieme al re o al principe nella tua mano "
+        "devi scartare questa carta.",
         [PCX_TEXT_STRING_PRINCESS] =
-        "Princess",
+        "Principessa",
         [PCX_TEXT_STRING_PRINCESS_OBJECT] =
-        "the princess",
+        "la principessa",
         [PCX_TEXT_STRING_PRINCESS_DESCRIPTION] =
-        "If you discard this card you lose the round.",
+        "Se scarti questa carta perdi il round.",
         [PCX_TEXT_STRING_ONE_COPY] =
-        "1 copy",
+        "1 copia",
         [PCX_TEXT_STRING_PLURAL_COPIES] =
-        "%i copies",
+        "%i copie",
         [PCX_TEXT_STRING_YOUR_CARD_IS] =
-        "Your card is: ",
+        "La tua carta è: ",
         [PCX_TEXT_STRING_VISIBLE_CARDS] =
-        "Discarded cards: ",
+        "Carte scartate: ",
         [PCX_TEXT_STRING_N_CARDS] =
-        "Deck: ",
+        "Mazzo: ",
         [PCX_TEXT_STRING_YOUR_GO_NO_QUESTION] =
-        "<b>%p</b>, it’s your go.",
+        "<b>%p</b>, è il tuo turno.",
         [PCX_TEXT_STRING_DISCARD_WHICH_CARD] =
-        "Which card do you want to discard?",
+        "Quale carta vorresti scartare?",
         [PCX_TEXT_STRING_EVERYONE_PROTECTED] =
-        "%p discards %C but all the other players are protected and it has no "
-        "effect.",
+        "%p scarta %C ma tutti gli altri giocatori sono protetti e quindi non ha "
+        "nessun effetto.",
         [PCX_TEXT_STRING_WHO_GUESS] =
-        "Whose card do you want to guess?",
+        "A chi vorresti indovinare la carta?",
         [PCX_TEXT_STRING_GUESS_WHICH_CARD] =
-        "Which card do you want to guess?",
+        "Che carta vuoi indovinare?",
         [PCX_TEXT_STRING_GUARD_SUCCESS] =
-        "%p discarded %C and correctly guessed that %p had %C. %p loses the "
+        "%p ha scartato %C e ha correttamente indovinato che %p aveva %C. %p perde il "
         "round.",
         [PCX_TEXT_STRING_GUARD_FAIL] =
-        "%p discarded %C and incorrectly guessed that %p had %C.",
+        "%p ha scartato %C e ha incorrettamente sbagliato ad indovinare che %p avesse %C.",
         [PCX_TEXT_STRING_WHO_SEE_CARD] =
-        "Whose card do you want to see?",
+        "A chi vuoi vedere la carta?",
         [PCX_TEXT_STRING_SHOWS_CARD] =
-        "%p discarded %C and made %p secretly show their card.",
+        "%p ha scartato %C e ha costretto %p a mostrargli la carta.",
         [PCX_TEXT_STRING_TELL_SPIED_CARD] =
-        "%p has %C",
+        "%p ha %C",
         [PCX_TEXT_STRING_WHO_COMPARE] =
-        "Who do you want to compare cards with?",
+        "Con chi vuoi confrontare le tue carte?",
         [PCX_TEXT_STRING_COMPARE_LOSER] =
-        "%p discarded %C and compared their hand with %p. %p had the lower "
-        "card and loses the round.",
+        "%p ha scartato %C e ha confrontato la mano con %p. %p aveva la carta più bassa "
+        "e perde il round.",
         [PCX_TEXT_STRING_TELL_COMPARE] =
-        "You have %C and %p has %C",
+        "Hai %C e %p ha %C",
         [PCX_TEXT_STRING_COMPARE_CARDS_EQUAL] =
-        "%p discarded %C and compared their hand with %p. The cards were equal "
-        "and nobody loses the round.",
+        "%p ha scartato %C e ha confrontato la mano con %p. Le carte erano uguali "
+        "e nessuno perde il round.",
         [PCX_TEXT_STRING_DISCARDS_HANDMAID] =
-        "%p discarded %C and will be protected until their next turn",
+        "%p ha scartato %C e sarà protetto fino al prossimo turno",
         [PCX_TEXT_STRING_WHO_PRINCE] =
-        "Who do you want to make discard their hand?",
+        "A chi vuoi far scartare la mano?",
         [PCX_TEXT_STRING_PRINCE_SELF] =
-        "%p discarded %C and made themself discard %C",
+        "%p ha scartato %C e ha fatto scartare a sè stesso %C",
         [PCX_TEXT_STRING_PRINCE_OTHER] =
-        "%p discarded %C and made %p discard %C",
+        "%p ha scartato %C e ha fatto scartare %C a %p ",
         [PCX_TEXT_STRING_FORCE_DISCARD_PRINCESS] =
-        " and so they lose the round.",
+        " e quindi perde il round.",
         [PCX_TEXT_STRING_FORCE_DISCARD_OTHER] =
-        " and take a new card.",
+        " e prende una nuova carta.",
         [PCX_TEXT_STRING_WHO_EXCHANGE] =
-        "Who do you want to exchange hands with?",
+        "Con chi vorresti scambiare le carte?",
         [PCX_TEXT_STRING_TELL_EXCHANGE] =
-        "You gave away %C to %p and received %C",
+        "Hai dato %C a %p e hai ricevuto %C",
         [PCX_TEXT_STRING_EXCHANGES] =
-        "%p discarded the king and exchanges hands with %p.",
+        "%p ha scartato il re e ha scambiato carte con %p.",
         [PCX_TEXT_STRING_DISCARDS_COMTESSE] =
-        "%p discarded %C",
+        "%p ha scartato %C",
         [PCX_TEXT_STRING_DISCARDS_PRINCESS] =
-        "%p discarded %C and lost the round.",
+        "%p ha scartato %C e perde il round.",
         [PCX_TEXT_STRING_EVERYBODY_SHOWS_CARD] =
-        "The round has finished and everybody shows their card:",
+        "Il round è finito e ognuno mostra le proprie carte:",
         [PCX_TEXT_STRING_SET_ASIDE_CARD] =
-        "The hidden card was %c",
+        "La carta nascosta era %c",
         [PCX_TEXT_STRING_WINS_ROUND] =
-        "💘 %p wins the round and gains a point of affection from the princess.",
+        "💘 %p vince il round e guadagna un punto di affetto dalla principessa.",
         [PCX_TEXT_STRING_WINS_PRINCESS] =
-        "🏆 %p has %i points of affection and wins the game!",
+        "🏆 %p ha %i punti di affetto e vince il gioco!",
         [PCX_TEXT_STRING_FIGHTERS_ARE] =
-        "The players in the next fight are:\n"
+        "I giocatori nella prossima lotta sono:\n"
         "\n"
         "%s\n"
         "%s\n"
         "\n"
-        "They are now choosing their fighters.",
+        "Stanno scegliendo i loro lottatori.",
         [PCX_TEXT_STRING_POSSIBLE_ROLES] =
         "Your characters are:",
         [PCX_TEXT_STRING_POSSIBLE_ATTRIBUTES] =
