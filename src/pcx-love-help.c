@@ -101,4 +101,12 @@ pcx_love_help[] = {
         "網上短文\n"
         "\n"
         "@CARDS@\n",
+        [PCX_TEXT_LANGUAGE_ITALIAN] =
+        "Siete tutti corteggiatori della principessa e volete inviarle una lettera d'amore."
+        "Nella tua mano hai una carta che rappresenta la persona che sta attualmente tenendo la tua lettera. Più alto è il numero sulla carta, più quella persona è vicina alla principessa." 
+        "Alla fine del round, la persona che avrà la carta migliore darà la sua lettera alla principessa e vincerà un punto di affetto."
+
+        "Durante il tuo turno devi prendere una carta dal mazzo e scegliere quale scartare delle due carte che hai in mano."
+        "Ogni carta ha un effetto diverso quando viene scartata:"
+        "\n@CARDS@\n"
 };
