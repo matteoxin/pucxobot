@@ -139,4 +139,25 @@ pcx_zombie_help[] = {
         "Quando um jogador marcar 13 pontos, os outros jogadores poderão jogar "
         "até terminar o turno. Por fim, a pessoa com maior pontuação "
         "vence.\n",
+        [PCX_TEXT_LANGUAGE_ITALIAN] =
+        "Zombie Dice\n\n"
+
+        "Sei uno zombi e vuoi mangiare più cervelli possibile.\n"
+        "Durante il tuo turno lancerai 3 dadi con ogni dado che rappresenta una persona.\n"
+        "Un lancio di dadi può provocare una di queste tre cose:\n\n"
+
+        "🧠: Hai mangiato il cervello della persona\n"
+        "💥: La persona ti ha sparato\n"
+        "👣: La persona è scappata\n\n"
+
+        "Dopo aver lanciato i dadi metti da parte tutti i cervelli 🧠 e i fucili 💥.\n"
+        "Se ti ritrovi con 3 fucili, muori e perdi tutto I cervelli che hai guadagnato in questo turno. Altrimenti puoi scegliere se continuare a rollare.\n"
+        "Se ti fermi, aggiungi tutti i cervelli che hai ottenuto al tuo punteggio totale.\n"
+        "Se tiri di nuovo, prendi tutti i dadi dei piedi 👣, aggiungi altri dadi dalla scatola per tornare fino a tre e poi lanciali di nuovo come prima.\n\n"
+
+        "Ci sono tre colori di dado: verde 🍏, giallo 💛 e rosso 🧨.\n" 
+        "I dadi verdi hanno maggiori probabilità di far uscire un cervello e i dadi rossi hanno maggiori probabilità di far uscire un fucile. I dadi gialli sono bilanciati.\n\n"
+
+        "Dopo che un giocatore ha ottenuto 13 punti, gli altri giocatori possono giocare e finire un ultimo turno.\n"
+        "Dopodiché vince la persona con il punteggio più alto.",
 };
