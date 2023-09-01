@@ -68,5 +68,5 @@ pcx_chameleon_help[] = {
         "gets two points.\n"
         "\n"
         "The first person to get 5 points wins the game.\n",
-        [PCX_TEXT_LANGUAGE_ITALIAN] = "tanto non lo usiamo ziopera"
+        [PCX_TEXT_LANGUAGE_ITALIAN] = "tanto non lo usiamo ziopera",
 };
