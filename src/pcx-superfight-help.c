@@ -99,4 +99,21 @@ pcx_superfight_help[] = {
         "Isso se repete até alguém conseguir mais votos.\n"
         "\n"
         "O primeiro que fizer 3 pontos ganha o jogo.",
+        [PCX_TEXT_LANGUAGE_IT] = 
+        "<b>Superfight</b> è un semplice gioco di argomenti ridicoli.\n\n"
+
+        "Il gioco si svolge con una serie di combattimenti.\n"
+        "Per il primo combattimento, il bot sceglie due giocatori casuali. Quei due giocatori ricevono 6 carte ciascuno.\n"
+        "Tre di esse sono personaggi e le altre tre sono attributi.\n"
+        "I due giocatori devono scegliere una di ogni tipo di carta.\n"
+        "Il bot aggiunge quindi un secondo attributo casuale che aiuterà o ostacolerà il giocatore.  Il personaggio e gli attributi scelti sono il tuo combattente.\n\n"
+        
+        "Quando entrambi i combattenti sono pronti, i due giocatori devono discutere nel gruppo sul perché il loro combattente vincerebbe in una lotta all'ultimo sangue."
+        "Quando tutti sono sufficientemente convinti possono votare per il vincitore.  Il giocatore vincente ottiene un punto e rimane per il round successivo senza cambiare il proprio combattente.\n"
+        "Il perdente viene sostituito dal giocatore successivo che creerà il suo combattente come scritto sopra.\n\n"
+        
+        "In caso di pareggio, i due giocatori prendono una nuova carta personaggio ciascuno e la usano in un nuovo combattimento senza attributi aggiuntivi.\n"
+        "Questo si ripete finché qualcuno non ottiene più voti.\n\n"
+        
+        "Il primo giocatore che ottiene 3 punti vince la partita.",
 };
