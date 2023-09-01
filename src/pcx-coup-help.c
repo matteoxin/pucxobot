@@ -285,7 +285,7 @@ pcx_coup_help[] = {
         "O vencedor é o último jogador restante. ",
         [PCX_TEXT_LANGUAGE_CHINESE_TRADITIONAL] =
         "網上短文",
-        [PCX_TEXT_LANGUAGE_ITALIAN] = "Coup è un gioco di carte basato sul bluff. Il bot può riprodurre il gioco originale o qualsiasi combinazione di due estensioni.
+        [PCX_TEXT_LANGUAGE_ITALIAN] = "Coup è un gioco di carte basato sul bluff. Il bot può riprodurre il gioco originale o qualsiasi combinazione di due estensioni."
         "Gioco originale"
         "Tutti iniziano con due carte (coperte) e 2 monete. Se qualcuno perde una vita, deve rivelare la carta e non può più usarla."
         "Durante il tuo turno, puoi eseguire una delle seguenti azioni:"
