@@ -99,7 +99,7 @@ pcx_superfight_help[] = {
         "Isso se repete até alguém conseguir mais votos.\n"
         "\n"
         "O primeiro que fizer 3 pontos ganha o jogo.",
-        [PCX_TEXT_LANGUAGE_IT] = 
+        [PCX_TEXT_LANGUAGE_ITALIAN] = 
         "<b>Superfight</b> è un semplice gioco di argomenti ridicoli.\n\n"
 
         "Il gioco si svolge con una serie di combattimenti.\n"
