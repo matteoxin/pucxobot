@@ -151,4 +151,24 @@ pcx_six_help[] = {
         "pelo menos 66 pontos o jogo acaba e o jogador com menos "
         "pontos ganha. Caso contrário, as cartas são redistribuídas como no início "
         "e uma nova rodada é iniciada.",
+        [PCX_TEXT_LANGUAGE_ITALIAN] = 
+        "In 6 Takes ci sono 104 carte, ciascuna con un numero compreso tra 1 e 104. Ogni carta ha anche un certo numero di bullhead 🐮 a seconda della carta.\n"
+        "Lo scopo del gioco è finire con meno 🐮 di ogni altro giocatore.\n\n"
+
+        "Ognuno riceve 10 carte in mano.  Successivamente vengono create 4 righe che iniziano con una carta ciascuna.\n" 
+        "Durante un round, ogni giocatore sceglie contemporaneamente una carta dalla propria mano. Quando tutti sono pronti, vengono mostrate tutte le carte.\n"
+        "Partendo dalla carta più bassa, i giocatori aggiungono le loro carte a una delle righe. Le righe hanno sempre una serie di valori crescenti, "
+        "quindi devi sempre mettere la tua carta in una riga la cui carta più alta è inferiore alla tua.\n"
+        "Se ci sono più di queste righe, la carta va alla riga con la carta più alta."
+
+        "Ogni riga ha al massimo 5 carte. "
+        "Se un giocatore deve mettere la sesta carta di fila, deve prima prendere tutte le carte della fila e metterle da parte. "
+        "Quindi bisogna poi posizionare la propria carta come unica carta nella riga. "
+        "Le 🐮 sulle carte appena prese vengono aggiunte al punteggio del giocatore. \n\n"
+        
+        "Se la carta scelta è inferiore alla carta in ogni riga, il giocatore deve scegliere una qualsiasi delle righe, prenderla e sostituirla con la propria carta.\n\n"
+        
+        "Quando tutti hanno giocato tutte e 10 le loro carte, le 🐮 che erano state messe da parte vengono contate e aggiunte al punteggio. "
+        "Se un giocatore ha almeno 66 punti, il gioco finisce e il giocatore con il minor numero di punti vince.  Altrimenti le carte vengono "
+        "ridistribuite come all'inizio e viene avviato un nuovo round.",
 };
