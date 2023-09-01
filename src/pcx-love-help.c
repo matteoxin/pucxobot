@@ -108,5 +108,5 @@ pcx_love_help[] = {
 
         "Durante il tuo turno devi prendere una carta dal mazzo e scegliere quale scartare delle due carte che hai in mano."
         "Ogni carta ha un effetto diverso quando viene scartata:"
-        "\n@CARDS@\n"
+        "\n@CARDS@\n",
 };
