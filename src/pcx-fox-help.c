@@ -93,4 +93,5 @@ pcx_fox_help[] = {
         "and won at least 10 tricks then they get no points and the other "
         "player gets the 6. The game is over when one of the players has at "
         "least 21 points.",
+        [PCX_TEXT_LANGUAGE_ITALIAN] = "gioco per due giocatori",
 };
