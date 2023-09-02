@@ -168,7 +168,7 @@ pcx_snitch_help[] = {
         "dividido entre todos os informantes. Se a quantia não puder ser dividida "
         "uniformemente, será arredondada e as moedas extras irão para o banco.\n"
         "\n"
-        "Após as 8 rodadas, o jogador com mais moedas ganha o jogo."
+        "Após as 8 rodadas, o jogador com mais moedas ganha o jogo.",
         [PCX_TEXT_LANGUAGE_ITALIAN] = 
         "Snitch è un gioco di carte di semi-collaborazione e bluff.\n\n"
 
