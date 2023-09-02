@@ -140,7 +140,7 @@ pcx_zombie_help[] = {
         "até terminar o turno. Por fim, a pessoa com maior pontuação "
         "vence.\n",
         [PCX_TEXT_LANGUAGE_ITALIAN] =
-        "Zombie Dice\n\n"
+        "<b>Zombie Dice</b>\n\n"
 
         "Sei uno zombi e vuoi mangiare più cervelli possibile.\n"
         "Durante il tuo turno lancerai 3 dadi con ogni dado che rappresenta una persona.\n"
@@ -158,6 +158,6 @@ pcx_zombie_help[] = {
         "Ci sono tre colori di dado: verde 🍏, giallo 💛 e rosso 🧨.\n" 
         "I dadi verdi hanno maggiori probabilità di far uscire un cervello e i dadi rossi hanno maggiori probabilità di far uscire un fucile. I dadi gialli sono bilanciati.\n\n"
 
-        "Dopo che un giocatore ha ottenuto 13 punti, gli altri giocatori possono giocare e finire un ultimo turno.\n"
+        "Dopo che un giocatore ha ottenuto <b>13 punti</b>, gli altri giocatori possono giocare e finire un ultimo turno.\n"
         "Dopodiché vince la persona con il punteggio più alto.",
 };
