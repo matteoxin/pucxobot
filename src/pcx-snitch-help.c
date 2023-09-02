@@ -169,4 +169,31 @@ pcx_snitch_help[] = {
         "uniformemente, será arredondada e as moedas extras irão para o banco.\n"
         "\n"
         "Após as 8 rodadas, o jogador com mais moedas ganha o jogo."
+        [PCX_TEXT_LANGUAGE_ITALIAN] = 
+        "Snitch è un gioco di carte di semi-collaborazione e bluff.\n\n"
+
+        "Siete tutti criminali che collaborano per compiere una rapina.\n"
+        "Ci sono 8 round e in ogni round c'è un capobanda.\n\n"
+
+        "Il contratto\n\n"
+
+        "Il capobanda sceglie quanti specialisti avrà la rapina e così facendo sceglie anche il livello di difficoltà.\n"
+        "Quindi il bot prenderà dal mazzo il numero di carte che il capobanda ha deciso e le mostrerà a tutti.\n"
+        "Queste carte costituiscono il contratto per la rapina.\n"
+        "Per fare in modo che sia un successo, ognuno di questi specialisti deve partecipare.\n"
+
+        "La discussione e la rapina\n\n"
+
+        "Adesso è il momento della fase di discussione.\n"
+        "Ognuno ha 10 carte in mano: 7 di loro rappresentano gli specialisti.\n"
+        "Dovrete lavorare insieme per cercare di ottenere le carte necessarie per la rapina.\n"
+        "Alla fine, quando tutti hanno scelto la propria carta, vengono rivelate tutte contemporaneamente.\n"
+        "Se riuscirete a portare tutte le carte/specialisti necessari per il contratto, tutti vincono il numero di monete della dimensione del contratto.\n"
+        
+        "Gli snitch\n\n" 
+        "Tuttavia, nella mano di tutti ci sono anche 3 snitch.\n"
+        "Se il colpo fallisce e almeno una persona ha scelto la carta dello snitch, invece di prendere soldi dalla banca, gli snitch rubano soldi agli altri giocatori!\n"
+        "Chi non ha fatto lo snitch perde una moneta e il bottino viene diviso tra tutti gli snitch.\n"
+        "Se l'importo non può essere diviso in modo uniforme, viene arrotondato prelevando monete extra dalla banca.\n\n"
+        "Dopo gli 8 round, il giocatore con il maggior numero di monete vince la partita.",
 };
